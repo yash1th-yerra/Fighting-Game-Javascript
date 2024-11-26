@@ -19,7 +19,7 @@ Welcome to the Fighting Game! This is a simple web-based fighting simulation gam
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/yourusername/fighting-game.git
+   git clone https://github.com/yourusername/Fighting-Game-Javascript.git
    ```
 Navigate to the Project Directory
 bash
